@@ -2,7 +2,7 @@
 Azure Service Manager (Classic) migration to Azure Resource Manager, options, recommendations and guidelines.
 
 
-# Important links
+# Resources - Compute migration
 [Overview of platform-supported migration of IaaS resources from classic to Azure Resource Manager](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migration-classic-resource-manager-overview?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json)
 
 [Technical deep dive on platform-supported migration from classic to Azure Resource Manager](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migration-classic-resource-manager-deep-dive?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json)
@@ -22,3 +22,8 @@ Azure Service Manager (Classic) migration to Azure Resource Manager, options, re
 [Common errors during Classic to Azure Resource Manager migration](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migration-classic-resource-manager-errors?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json)
 
 [Frequently asked questions about classic to Azure Resource Manager migration](https://docs.microsoft.com/en-us/azure/virtual-machines/windows/migration-classic-resource-manager-faq?toc=%2fazure%2fvirtual-machines%2fwindows%2ftoc.json)
+
+# Resources - Cloud Services migration
+Migrate Azure Cloud Services (classic) to Azure Cloud Services (extended support) | Microsoft Docs
+![image](https://user-images.githubusercontent.com/50609634/143869176-9fb1807b-d81e-4be0-96f3-dc44fda4dd65.png)
+
